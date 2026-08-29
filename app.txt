@@ -3,3 +3,4 @@ Login Feature Added
 Login Bug Fixed
 Payment feature Added
 Dashboard Updated
+Profile Feature Added
